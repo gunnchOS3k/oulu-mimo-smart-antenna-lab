@@ -1,4 +1,4 @@
-from oulu_mimo.array_factor import array_factor
+from gunnchos_mimo.array_factor import array_factor
 import numpy as np
 
 def test_af():

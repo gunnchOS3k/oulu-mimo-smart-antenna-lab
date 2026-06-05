@@ -2,10 +2,10 @@ from pathlib import Path
 import numpy as np
 import matplotlib; matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-from oulu_mimo.array_factor import array_factor
-from oulu_mimo.mimo_channel import rayleigh_mimo
-from oulu_mimo.zf_precoding import zf_precoder
-from oulu_mimo.mmse_precoding import mmse_precoder
+from gunnchos_mimo.array_factor import array_factor
+from gunnchos_mimo.mimo_channel import rayleigh_mimo
+from gunnchos_mimo.zf_precoding import zf_precoder
+from gunnchos_mimo.mmse_precoding import mmse_precoder
 
 ROOT = Path(__file__).resolve().parents[1]
 FIG = ROOT/'results/figures'; FIG.mkdir(parents=True, exist_ok=True)
