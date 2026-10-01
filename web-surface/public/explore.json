@@ -118,5 +118,6 @@
   "methods": "Methods are the precoders and array helpers in src/gunnchos_mimo, including zf_precoder, mmse_precoder, svd_precoder, and array_factor. results/tables/precoding_comparison.md records Toy 4x4 PASS. DeepMIMO and Sionna adapters are optional stubs, not installed ray tracers.",
   "cards": [],
   "runtime_mode": "PRECOMPUTED",
-  "runtime_boot": false
+  "runtime_boot": false,
+  "evidence_class": "SIMULATED"
 }
