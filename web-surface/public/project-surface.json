@@ -1,0 +1,21 @@
+{
+  "repo": "oulu-mimo-smart-antenna-lab",
+  "productName": "MIMO and smart antenna lab",
+  "family": "Oulu preparation",
+  "classification": "STATIC_RESEARCH_SURFACE_WORKER",
+  "acceptedSha": "cbbf68b9198367aecec00a9b71c7f61b042440ff",
+  "status": "STAGING_WORKER",
+  "summary": "Independent portfolio lab for MIMO and smart-antenna preparation.",
+  "capabilities": [
+    "Read the preparation scope",
+    "Open the source repository"
+  ],
+  "limitations": [
+    "No Oulu affiliation is claimed",
+    "No antenna measurement campaign is claimed"
+  ],
+  "sourceUrl": "https://github.com/gunnchOS3k/oulu-mimo-smart-antenna-lab",
+  "returnUrlEnv": "GUNNCHOS_PORTAL_URL",
+  "returnUrl": "https://gunnchos-site.gunnchos-finds.workers.dev",
+  "workerName": "gunnchos-oulu-mimo"
+}
